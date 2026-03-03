@@ -1,0 +1,65 @@
+[
+    {
+        "id": "p1",
+        "name": "Virat Kohli",
+        "team": "RCB",
+        "role": "Batsman",
+        "form": 9.5,
+        "lastFiveScores": [
+            77,
+            113,
+            22,
+            51,
+            83
+        ],
+        "strikeRate": 139.5,
+        "boundaryPercent": 18.2,
+        "economyRate": null,
+        "chasePerformance": 92.5,
+        "fantasyPoints": 450,
+        "isSafePick": true,
+        "isDifferential": false
+    },
+    {
+        "id": "p2",
+        "name": "Jasprit Bumrah",
+        "team": "MI",
+        "role": "Bowler",
+        "form": 9.8,
+        "lastFiveWickets": [
+            3,
+            0,
+            2,
+            5,
+            2
+        ],
+        "strikeRate": 14.2,
+        "boundaryPercent": null,
+        "economyRate": 6.4,
+        "chasePerformance": 85.0,
+        "fantasyPoints": 420,
+        "isSafePick": true,
+        "isDifferential": false
+    },
+    {
+        "id": "p3",
+        "name": "Tristan Stubbs",
+        "team": "DC",
+        "role": "Batsman",
+        "form": 8.2,
+        "lastFiveScores": [
+            25,
+            71,
+            15,
+            44,
+            12
+        ],
+        "strikeRate": 165.2,
+        "boundaryPercent": 22.5,
+        "economyRate": null,
+        "chasePerformance": 70.0,
+        "fantasyPoints": 280,
+        "isSafePick": false,
+        "isDifferential": true
+    }
+]

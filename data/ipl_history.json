@@ -1,0 +1,68 @@
+[
+    {
+        "id": "CSK",
+        "name": "Chennai Super Kings",
+        "winPercent": 58.4,
+        "lastFive": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+        ],
+        "titles": 5,
+        "keyPlayers": [
+            "Ruturaj Gaikwad",
+            "MS Dhoni",
+            "Ravindra Jadeja"
+        ],
+        "venueStrengths": {
+            "Chepauk": 0.75,
+            "Wankhede": 0.55
+        }
+    },
+    {
+        "id": "MI",
+        "name": "Mumbai Indians",
+        "winPercent": 56.1,
+        "lastFive": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+        ],
+        "titles": 5,
+        "keyPlayers": [
+            "Hardik Pandya",
+            "Jasprit Bumrah",
+            "Suryakumar Yadav"
+        ],
+        "venueStrengths": {
+            "Wankhede": 0.70,
+            "Chepauk": 0.45
+        }
+    },
+    {
+        "id": "RCB",
+        "name": "Royal Challengers Bangalore",
+        "winPercent": 48.2,
+        "lastFive": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+        ],
+        "titles": 0,
+        "keyPlayers": [
+            "Virat Kohli",
+            "Faf du Plessis",
+            "Glenn Maxwell"
+        ],
+        "venueStrengths": {
+            "Chinnaswamy": 0.50,
+            "Wankhede": 0.55
+        }
+    }
+]

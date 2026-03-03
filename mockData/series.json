@@ -1,0 +1,26 @@
+[
+    {
+        "id": "s1",
+        "title": "ICC Champions Trophy 2025",
+        "status": "Ongoing",
+        "matches": "15 Matches",
+        "teams": "8 Teams",
+        "icon": "trophy"
+    },
+    {
+        "id": "s2",
+        "title": "IPL 2025",
+        "status": "Upcoming",
+        "matches": "74 Matches",
+        "teams": "10 Teams",
+        "icon": "star"
+    },
+    {
+        "id": "s3",
+        "title": "The Ashes 2025",
+        "status": "Upcoming",
+        "matches": "5 Tests",
+        "teams": "AUS vs ENG",
+        "icon": "fire"
+    }
+]

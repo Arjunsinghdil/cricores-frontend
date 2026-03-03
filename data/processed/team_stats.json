@@ -1,0 +1,61 @@
+{
+    "CSK": {
+        "winPercent": 59.5,
+        "venueStrengths": {
+            "Chepauk": 75,
+            "Wankhede": 55,
+            "Chinnaswamy": 52
+        },
+        "tossWinAdvantage": 5.2,
+        "formMomentum": 8.5,
+        "keyPlayersImpact": [
+            "Ruturaj Gaikwad",
+            "MS Dhoni",
+            "Ravindra Jadeja"
+        ]
+    },
+    "MI": {
+        "winPercent": 57.2,
+        "venueStrengths": {
+            "Wankhede": 70,
+            "Chepauk": 45,
+            "Chinnaswamy": 60
+        },
+        "tossWinAdvantage": 4.8,
+        "formMomentum": 7.2,
+        "keyPlayersImpact": [
+            "Jasprit Bumrah",
+            "Suryakumar Yadav",
+            "Hardik Pandya"
+        ]
+    },
+    "RCB": {
+        "winPercent": 48.8,
+        "venueStrengths": {
+            "Chinnaswamy": 55,
+            "Wankhede": 50,
+            "Chepauk": 40
+        },
+        "tossWinAdvantage": 3.5,
+        "formMomentum": 9.2,
+        "keyPlayersImpact": [
+            "Virat Kohli",
+            "Glenn Maxwell",
+            "Faf du Plessis"
+        ]
+    },
+    "Kolkata Knight Riders": {
+        "winPercent": 53.4,
+        "venueStrengths": {
+            "Eden Gardens": 68,
+            "Wankhede": 48
+        },
+        "tossWinAdvantage": 4.1,
+        "formMomentum": 8.0,
+        "keyPlayersImpact": [
+            "Shreyas Iyer",
+            "Andre Russell",
+            "Sunil Narine"
+        ]
+    }
+}

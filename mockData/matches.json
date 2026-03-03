@@ -1,0 +1,52 @@
+{
+  "live": [
+    {
+      "id": "m1",
+      "name": "ICC Champions Trophy 2025",
+      "teams": ["IND", "PAK"],
+      "score": [
+        { "r": 245, "w": 4, "o": "38.2" },
+        { "r": 0, "w": 0, "o": "" }
+      ],
+      "status": "India opt to bat",
+      "venue": "Dubai International Cricket Stadium",
+      "isLive": true
+    },
+    {
+      "id": "m2",
+      "name": "Bilateral Series",
+      "teams": ["AUS", "ENG"],
+      "score": [
+        { "r": 312, "w": 8, "o": "50.0" },
+        { "r": 156, "w": 3, "o": "24.1" }
+      ],
+      "status": "England need 157 runs in 25.5 overs",
+      "venue": "MCG, Melbourne",
+      "isLive": true
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "m3",
+      "name": "IPL 2025",
+      "teams": ["CSK", "RCB"],
+      "time": "Today, 19:30",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "isLive": false
+    }
+  ],
+  "finished": [
+    {
+      "id": "m4",
+      "name": "Test Series",
+      "teams": ["SA", "NZ"],
+      "score": [
+        { "r": 450, "w": 10, "o": "" },
+        { "r": 210, "w": 10, "o": "" }
+      ],
+      "status": "South Africa won by 240 runs",
+      "venue": "Wanderers, Johannesburg",
+      "isLive": false
+    }
+  ]
+}

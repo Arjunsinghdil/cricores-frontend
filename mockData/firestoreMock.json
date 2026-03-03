@@ -1,0 +1,78 @@
+{
+    "venues": {
+        "v1": {
+            "name": "Wankhede Stadium, Mumbai",
+            "avgFirstInnings": 185,
+            "avgSecondInnings": 172,
+            "powerplayAvg": 48,
+            "middleOversAvg": 85,
+            "deathOversAvg: 52",
+            "chasingWinPercent": 62
+        }
+    },
+    "teams": {
+        "IND": {
+            "teamName": "India",
+            "lastFiveResults": [
+                "W",
+                "W",
+                "L",
+                "W",
+                "W"
+            ],
+            "battingStrengthIndex": 92,
+            "bowlingStrengthIndex": 88
+        },
+        "AUS": {
+            "teamName": "Australia",
+            "lastFiveResults": [
+                "W",
+                "L",
+                "W",
+                "W",
+                "L"
+            ],
+            "battingStrengthIndex": 89,
+            "bowlingStrengthIndex": 91
+        }
+    },
+    "matches": {
+        "m101": {
+            "teamA": "India",
+            "teamB": "Australia",
+            "venueId": "v1",
+            "tossWinner": "India",
+            "tossDecision": "Bat",
+            "status": "live"
+        }
+    },
+    "matchStats": {
+        "m101": {
+            "powerplayScore": 42,
+            "middleOversScore": 78,
+            "deathOversScore": 35,
+            "overRuns": [
+                6,
+                4,
+                12,
+                8,
+                4,
+                8,
+                15,
+                6,
+                4,
+                2
+            ],
+            "wicketTimeline": [
+                {
+                    "over": 5,
+                    "player": "Rohit"
+                },
+                {
+                    "over": 10,
+                    "player": "Kohli"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Virat Kohli",
+        "team": "RCB",
+        "strikeRate": 139.5,
+        "average": 38.4,
+        "lastFive": [
+            72,
+            113,
+            22,
+            51,
+            83
+        ],
+        "boundaryPercent": 18.2,
+        "dotBallPercent": 28.5,
+        "chasePerformance": 92.5,
+        "isSafePick": true,
+        "isDifferential": false,
+        "role": "Batsman",
+        "form": 9.5
+    },
+    {
+        "id": "2",
+        "name": "Jasprit Bumrah",
+        "team": "MI",
+        "economyRate": 6.8,
+        "wicketFrequency": 14.2,
+        "lastFive": [
+            3,
+            0,
+            2,
+            5,
+            2
+        ],
+        "dotBallPercent": 42.1,
+        "isSafePick": true,
+        "isDifferential": false,
+        "role": "Bowler",
+        "form": 9.8
+    },
+    {
+        "id": "3",
+        "name": "Andre Russell",
+        "team": "KKR",
+        "strikeRate": 174.2,
+        "average": 29.5,
+        "lastFive": [
+            12,
+            64,
+            5,
+            41,
+            24
+        ],
+        "boundaryPercent": 25.4,
+        "dotBallPercent": 35.2,
+        "chasePerformance": 88.0,
+        "isSafePick": false,
+        "isDifferential": true,
+        "role": "All-rounder",
+        "form": 8.7
+    },
+    {
+        "id": "4",
+        "name": "Ruturaj Gaikwad",
+        "team": "CSK",
+        "strikeRate": 135.8,
+        "average": 42.1,
+        "lastFive": [
+            46,
+            67,
+            102,
+            32,
+            58
+        ],
+        "boundaryPercent": 16.5,
+        "dotBallPercent": 32.1,
+        "chasePerformance": 78.4,
+        "isSafePick": true,
+        "isDifferential": false,
+        "role": "Batsman",
+        "form": 9.2
+    }
+]

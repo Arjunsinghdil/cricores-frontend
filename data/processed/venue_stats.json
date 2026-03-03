@@ -1,0 +1,23 @@
+{
+    "Wankhede": {
+        "avgFirstScore": 182,
+        "chasingWinRate": 62,
+        "pitchType": "Batting friendly",
+        "spinAdvantage": 0.4,
+        "paceAdvantage": 0.8
+    },
+    "Chepauk": {
+        "avgFirstScore": 164,
+        "chasingWinRate": 48,
+        "pitchType": "Slow/Spin friendly",
+        "spinAdvantage": 0.9,
+        "paceAdvantage": 0.5
+    },
+    "Chinnaswamy": {
+        "avgFirstScore": 192,
+        "chasingWinRate": 55,
+        "pitchType": "Lethal Batting",
+        "spinAdvantage": 0.3,
+        "paceAdvantage": 0.6
+    }
+}
